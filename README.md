@@ -1,4 +1,4 @@
-# VLD — MGDCC Pop-Noise Detection (CNN Classifier)
+# VLD 
 
 A 2D-CNN based binary classifier that detects the presence of **pop noise** in speech recordings using **MGDCC (Modified Group Delay Cepstral Coefficients)** features. Built for dysarthric speech research, where clean feature extraction is critical for downstream analysis.
 
